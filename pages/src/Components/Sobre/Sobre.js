@@ -2,6 +2,7 @@ import Image from 'next/image'
 
 function Sobre() {
   return (
+    
     <div>
       <div class="row">
         <div class="col-md-2">
