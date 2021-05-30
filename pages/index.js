@@ -6,8 +6,10 @@ import Body from './src/Components/Body/Body'
 export default function Home() {
   return (
       <div  className="container">
-        <Navi/>        
+        <Navi/>       
+
         <Sobre/>
+        
         <Body/>
     </div>
   )
