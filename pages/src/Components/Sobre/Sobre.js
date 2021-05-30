@@ -2,12 +2,12 @@ import Image from 'next/image'
 
 function Sobre() {
   return (
-    
+
     <div>
       <div class="row">
         <div class="col-md-2">
         <Image
-        src="/man.png"
+        src="/manuser.png"
         alt="Picture of the author"
         width={128}
         height={128}
