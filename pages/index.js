@@ -1,11 +1,14 @@
-import Head from 'next/head'
-import Image from 'next/image'
-import styles from '../styles/Home.module.css'
+import 'bootstrap/dist/css/bootstrap.css'
+import Navi from './src/Components/Nav/Nav'
+import Sobre from './src/Components/Sobre/Sobre'
+import Body from './src/Components/Body/Body'
 
 export default function Home() {
   return (
-    <div className={styles.container}>
-        oi
+      <div  className="container">
+        <Navi/>        
+        <Sobre/>
+        <Body/>
     </div>
   )
 }
