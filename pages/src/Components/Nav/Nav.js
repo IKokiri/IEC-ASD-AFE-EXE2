@@ -1,5 +1,5 @@
 
-import {menu} from '../../dados/Menu'
+import {menu} from '../../../../dados/Menu'
 import ItemMenu from './ItemMenu/ItemMenu';
 
 function Navi() {  

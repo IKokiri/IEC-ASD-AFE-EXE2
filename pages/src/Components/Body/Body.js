@@ -1,5 +1,5 @@
 import Dica from '../Dica/Dica'
-import {dicas} from '../../dados/Dicas'
+import {dicas} from '../../../../dados/Dicas'
 
 
 function Body() {
