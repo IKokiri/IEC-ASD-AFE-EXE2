@@ -6,11 +6,9 @@ function Sobre() {
     <div>
       <div class="row">
         <div class="col-md-2">
-        <Image
+        <img
         src="/manuser.png"
         alt="User"
-        width={256}
-        height={256}
       />
         </div>
         <div class="col">
