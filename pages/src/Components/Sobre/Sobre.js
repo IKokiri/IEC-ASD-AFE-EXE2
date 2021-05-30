@@ -7,10 +7,10 @@ function Sobre() {
       <div class="row">
         <div class="col-md-2">
         <Image
-        src="./manuser.png"
-        alt="Picture of the author"
-        width={128}
-        height={128}
+        src="/manuser.png"
+        alt="User"
+        width={256}
+        height={256}
       />
         </div>
         <div class="col">
